@@ -1,4 +1,3 @@
-"https://madtech.io/wp-content/uploads/2023/02/shutterstock_1635836119-scaled.jpg"
 <h1 align="center">Hi 👋, I'm Aabha Deepak Lokhande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
