@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Aabha Deepak Lokhande</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/039/339/257/small/new-technology-revolution-computer-science-lesson-programmer-occupation-job-it-coding-on-monitor-screen-abstract-source-code-background-technology-background-mobile-app-building-photo.jpg">
+<img align="right" alt="coding" width="400" src="https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwithaabha&label=Profile%20views&color=0e75b6&style=flat" alt="gitwithaabha" /> </p>
 
 - 📫 How to reach me **aabhadlokhande@gmail.com**
