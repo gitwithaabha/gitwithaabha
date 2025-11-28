@@ -1,8 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Aabha Deepak Lokhande</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="300" src="[<img width="558" height="372" alt="image" src="https://github.com/user-attachments/assets/1900b96a-a7b5-4584-ad27-719b4740d700" />
+src="[<img width="558" height="372" alt="image" src="https://github.com/user-attachments/assets/1900b96a-a7b5-4584-ad27-719b4740d700" />
 ]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwithaabha&label=Profile%20views&color=0e75b6&style=flat" alt="gitwithaabha" /> </p>
