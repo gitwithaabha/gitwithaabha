@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aabha Deepak Lokhande</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=170667a&w=0&k=20&c=qW7X_WhA9tVI-XxMc63mIo4N95VCxdQDO3U9Atw5g0s=">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shre11yeah&label=Profile%20views&color=0e75b6&style=flat" alt="shre11yeah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwithaabha&label=Profile%20views&color=0e75b6&style=flat" alt="gitwithaabha" /> </p>
 
 - 📫 How to reach me **aabhadlokhande@gmail.com**
 <h3 align="left">Connect with me:</h3>
