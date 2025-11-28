@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aabha Deepak Lokhande</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="300" src="[https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966]">
+<img align="right" alt="coding" width="300" src="[<img width="558" height="372" alt="image" src="https://github.com/user-attachments/assets/1900b96a-a7b5-4584-ad27-719b4740d700" />
+]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwithaabha&label=Profile%20views&color=0e75b6&style=flat" alt="gitwithaabha" /> </p>
 
